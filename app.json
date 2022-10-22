@@ -9,9 +9,8 @@
     "forward",
     "bot"
   ],
-  "success_url": "https://t.me/DForDarkAngel",
-  "website": "https://github.com/Jijinr/Frwdit",
-  "repository": "https://github.com/MRK-YT/MT-Forword",
+  
+  "repository": "https://github.com/Jnanesh124/file-forward-botj",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @MT_MyTelegramOrg_Bot",
